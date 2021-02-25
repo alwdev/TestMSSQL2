@@ -10,7 +10,7 @@ import java.sql.SQLException
 
 class connectionClass {
 
-    private val ip = "192.168.1.222"
+    private val ip = "192.168.1.115"
     private val db = "wanlamun"
     private val username = "sa"
     private val password = "admin123"
